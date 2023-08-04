@@ -1,0 +1,6 @@
+Working endpoints:
+- http://localhost:8885/spring-cloud-client-server/1
+- http://localhost:8885/spring-cloud-client-server/2
+
+- http://localhost:8890/client-1/message
+- http://localhost:8890/client-1/secret

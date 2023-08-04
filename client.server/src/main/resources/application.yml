@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-cloud-client-server
+  config:
+    import: 'configserver:http://localhost:8885'
+  profiles:
+    active: '1'
