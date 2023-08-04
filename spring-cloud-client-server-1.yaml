@@ -1,0 +1,4 @@
+message: 'This is a general message to application spring-cloud-client-server-1'
+
+secrets:
+  value: 'secret 1'
